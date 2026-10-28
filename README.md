@@ -93,11 +93,17 @@ Install the dependencies required by the example you want to run, then execute t
 
 ## Attribution
 
-The original code and implementations belong to **Massimiliano Patacchiola**. This repository is maintained for personal learning and experimentation, with compatibility changes where needed.
+This repository is a personal learning project based on [Dissecting Reinforcement Learning](https://github.com/mpatacchiola/dissecting-reinforcement-learning) by **Massimiliano Patacchiola**.
 
-Original project: https://github.com/mpatacchiola/dissecting-reinforcement-learning
+Some parts of the code are directly taken from the original repository, while compatibility adjustments may be made where needed to run the examples in a newer Python environment.
 
-The original project is licensed under the MIT License. See the original repository's license and retain the applicable copyright and license notices when redistributing the code.
+All original implementations and associated work are credited to their respective author. This repository is intended for learning, experimentation, and understanding reinforcement learning concepts.
+
+The original project is licensed under the MIT License. The original copyright notices and license terms are retained in accordance with the license.
+
+**Original resources:**
+- [GitHub Repository](https://github.com/mpatacchiola/dissecting-reinforcement-learning)
+- [Dissecting Reinforcement Learning — Part 8](https://mpatacchiola.github.io/blog/2018/12/28/dissecting-reinforcement-learning-8.html)
 
 ---
 
